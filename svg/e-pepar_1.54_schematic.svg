@@ -17,7 +17,7 @@
    viewBox="0 0 72 79.2"
    id="svg4136"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="eink_回路図.svg">
+   sodipodi:docname="e-pepar_1.54_schematic.svg">
   <metadata
      id="metadata4202">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,9 +45,9 @@
      inkscape:window-height="1132"
      id="namedview4198"
      showgrid="false"
-     inkscape:zoom="6.8888887"
-     inkscape:cx="32.731749"
-     inkscape:cy="31.856295"
+     inkscape:zoom="9.7423598"
+     inkscape:cx="30.631198"
+     inkscape:cy="47.652196"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -245,7 +245,7 @@
      style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
   <g
      id="g4301"
-     transform="matrix(-1,0,0,1,63.270634,38.52013)">
+     transform="matrix(-1,0,0,1,61.670634,38.52013)">
     <g
        id="g4180"
        transform="matrix(0,1,1,0,39.695984,13.153916)">
@@ -292,6 +292,6 @@
        x="36.4501"
        font-size="4.25001"
        class="text"
-       id="text4196">Module</text>
+       id="text4196">display</text>
   </g>
 </svg>

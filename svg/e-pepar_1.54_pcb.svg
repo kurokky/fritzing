@@ -1,53 +1,315 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Fritzing (http://www.fritzing.org/) -->
-<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.8in' height='0.65in' viewBox='0 0 57.6 46.8' >
-<g partID='83100'><g xmlns="http://www.w3.org/2000/svg" id="copper0" stroke-width="0">
- <circle xmlns="http://www.w3.org/2000/svg" id="connector8pad" connectorname="GND" cx="3.6" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
- <circle xmlns="http://www.w3.org/2000/svg" id="connector9pad" connectorname="VCC" cx="10.8" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
- <circle xmlns="http://www.w3.org/2000/svg" id="connector10pad" connectorname="SCL" cx="18" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
- <circle xmlns="http://www.w3.org/2000/svg" id="connector11pad" connectorname="SDA" cx="25.2" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
- <circle xmlns="http://www.w3.org/2000/svg" id="connector12pad" connectorname="SDO" cx="32.4" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
- <circle xmlns="http://www.w3.org/2000/svg" id="connector13pad" connectorname="CS" cx="39.6" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
- <circle xmlns="http://www.w3.org/2000/svg" id="connector14pad" connectorname="INT2" cx="46.8" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
- <circle xmlns="http://www.w3.org/2000/svg" id="connector15pad" connectorname="INT1" cx="54" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
-</g>
-</g><g partID='83101'><g xmlns="http://www.w3.org/2000/svg" id="copper1" stroke-width="0">
- <g xmlns="http://www.w3.org/2000/svg" id="copper0" stroke-width="0">
-  <circle xmlns="http://www.w3.org/2000/svg" id="connector8pad" connectorname="GND" cx="3.6" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
-  <circle xmlns="http://www.w3.org/2000/svg" id="connector9pad" connectorname="VCC" cx="10.8" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
-  <circle xmlns="http://www.w3.org/2000/svg" id="connector10pad" connectorname="SCL" cx="18" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
-  <circle xmlns="http://www.w3.org/2000/svg" id="connector11pad" connectorname="SDA" cx="25.2" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
-  <circle xmlns="http://www.w3.org/2000/svg" id="connector12pad" connectorname="SDO" cx="32.4" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
-  <circle xmlns="http://www.w3.org/2000/svg" id="connector13pad" connectorname="CS" cx="39.6" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
-  <circle xmlns="http://www.w3.org/2000/svg" id="connector14pad" connectorname="INT2" cx="46.8" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
-  <circle xmlns="http://www.w3.org/2000/svg" id="connector15pad" connectorname="INT1" cx="54" cy="43.2" stroke="#F7BD13" r="2.052" fill="none" stroke-width="1.224"/>
- </g>
-</g>
-</g><g partID='83102'><g xmlns="http://www.w3.org/2000/svg" id="silkscreen" stroke-width="0">
- <path xmlns="http://www.w3.org/2000/svg" stroke="white" d="M0.288,46.512L0.288,0.288L57.312,0.288L57.312,46.512L0.288,46.512M2.808,7.2a4.392,4.392,0,1,0,8.784,0,4.392,4.392,0,1,0,-8.784,0zM46.008,7.2a4.392,4.392,0,1,0,8.784,0,4.392,4.392,0,1,0,-8.784,0z" fill="none" stroke-width="0.576"/>
- <g xmlns="http://www.w3.org/2000/svg" stroke-width="0">
-  <title xmlns="http://www.w3.org/2000/svg">element:JP1</title>
-  <g xmlns="http://www.w3.org/2000/svg" stroke-width="0">
-   <title xmlns="http://www.w3.org/2000/svg">package:1X08</title>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.8in"
+   height="0.65in"
+   viewBox="0 0 57.6 46.8"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Untitled Sketch 2_プリント基板.svg">
+  <metadata
+     id="metadata81">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs79" />
+  <sodipodi:namedview
+     pagecolor="#a99595"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1405"
+     inkscape:window-height="882"
+     id="namedview77"
+     showgrid="false"
+     inkscape:zoom="4.0341882"
+     inkscape:cx="29.760882"
+     inkscape:cy="-3.8110691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     partID="98830"
+     id="g4">
+    <g
+       gorn="0.2.0"
+       id="copper0"
+       stroke-width="0">
+      <circle
+         cx="3.6"
+         gorn="0.2.0.0"
+         cy="43.2"
+         connectorname="GND"
+         r="2.052"
+         fill="none"
+         stroke="#F7BD13"
+         id="connector8pad"
+         stroke-width="1.224" />
+      <rect
+         height="4.1040001"
+         x="44.748001"
+         y="41.147999"
+         width="4.1040001"
+         id="rect8"
+         style="fill:none;stroke:#f7bd13;stroke-width:1.22399998" />
+      <circle
+         cx="10.8"
+         gorn="0.2.0.2"
+         cy="43.2"
+         connectorname="VCC"
+         r="2.052"
+         fill="none"
+         stroke="#F7BD13"
+         id="connector9pad"
+         stroke-width="1.224" />
+      <circle
+         cx="18"
+         gorn="0.2.0.3"
+         cy="43.2"
+         connectorname="SCL"
+         r="2.052"
+         fill="none"
+         stroke="#F7BD13"
+         id="connector10pad"
+         stroke-width="1.224" />
+      <circle
+         cx="25.2"
+         gorn="0.2.0.4"
+         cy="43.2"
+         connectorname="SDA"
+         r="2.052"
+         fill="none"
+         stroke="#F7BD13"
+         id="connector11pad"
+         stroke-width="1.224" />
+      <circle
+         cx="32.4"
+         gorn="0.2.0.5"
+         cy="43.2"
+         connectorname="SDO"
+         r="2.052"
+         fill="none"
+         stroke="#F7BD13"
+         id="connector12pad"
+         stroke-width="1.224" />
+      <circle
+         cx="39.6"
+         gorn="0.2.0.6"
+         cy="43.2"
+         connectorname="CS"
+         r="2.052"
+         fill="none"
+         stroke="#F7BD13"
+         id="connector13pad"
+         stroke-width="1.224" />
+      <circle
+         cx="46.8"
+         gorn="0.2.0.7"
+         cy="43.2"
+         connectorname="INT2"
+         r="2.052"
+         fill="none"
+         stroke="#F7BD13"
+         id="connector14pad"
+         stroke-width="1.224" />
+      <circle
+         cx="54"
+         gorn="0.2.0.8"
+         cy="43.2"
+         connectorname="INT1"
+         r="2.052"
+         fill="none"
+         stroke="#F7BD13"
+         id="connector15pad"
+         stroke-width="1.224" />
+    </g>
   </g>
- </g>
- <g xmlns="http://www.w3.org/2000/svg" stroke-width="0">
-  <title xmlns="http://www.w3.org/2000/svg">element:JP2</title>
-  <g xmlns="http://www.w3.org/2000/svg" stroke-width="0">
-   <title xmlns="http://www.w3.org/2000/svg">package:STAND-OFF</title>
+  <g
+     partID="98832"
+     id="g17">
+    <g
+       gorn="0.2"
+       id="copper1"
+       stroke-width="0">
+      <g
+         gorn="0.2.0"
+         id="g20"
+         stroke-width="0">
+        <circle
+           cx="3.6"
+           gorn="0.2.0.0"
+           cy="43.2"
+           connectorname="GND"
+           r="2.052"
+           fill="none"
+           stroke="#F7BD13"
+           id="circle22"
+           stroke-width="1.224" />
+        <rect
+           height="4.1040001"
+           x="44.748001"
+           y="41.147999"
+           width="4.1040001"
+           id="rect24"
+           style="fill:none;stroke:#f7bd13;stroke-width:1.22399998" />
+        <circle
+           cx="10.8"
+           gorn="0.2.0.2"
+           cy="43.2"
+           connectorname="VCC"
+           r="2.052"
+           fill="none"
+           stroke="#F7BD13"
+           id="circle26"
+           stroke-width="1.224" />
+        <circle
+           cx="18"
+           gorn="0.2.0.3"
+           cy="43.2"
+           connectorname="SCL"
+           r="2.052"
+           fill="none"
+           stroke="#F7BD13"
+           id="circle28"
+           stroke-width="1.224" />
+        <circle
+           cx="25.2"
+           gorn="0.2.0.4"
+           cy="43.2"
+           connectorname="SDA"
+           r="2.052"
+           fill="none"
+           stroke="#F7BD13"
+           id="circle30"
+           stroke-width="1.224" />
+        <circle
+           cx="32.4"
+           gorn="0.2.0.5"
+           cy="43.2"
+           connectorname="SDO"
+           r="2.052"
+           fill="none"
+           stroke="#F7BD13"
+           id="circle32"
+           stroke-width="1.224" />
+        <circle
+           cx="39.6"
+           gorn="0.2.0.6"
+           cy="43.2"
+           connectorname="CS"
+           r="2.052"
+           fill="none"
+           stroke="#F7BD13"
+           id="circle34"
+           stroke-width="1.224" />
+        <circle
+           cx="46.8"
+           gorn="0.2.0.7"
+           cy="43.2"
+           connectorname="INT2"
+           r="2.052"
+           fill="none"
+           stroke="#F7BD13"
+           id="circle36"
+           stroke-width="1.224" />
+        <circle
+           cx="54"
+           gorn="0.2.0.8"
+           cy="43.2"
+           connectorname="INT1"
+           r="2.052"
+           fill="none"
+           stroke="#F7BD13"
+           id="circle38"
+           stroke-width="1.224" />
+      </g>
+    </g>
   </g>
- </g>
- <g xmlns="http://www.w3.org/2000/svg" stroke-width="0">
-  <title xmlns="http://www.w3.org/2000/svg">element:JP3</title>
-  <g xmlns="http://www.w3.org/2000/svg" stroke-width="0">
-   <title xmlns="http://www.w3.org/2000/svg">package:STAND-OFF</title>
+  <g
+     partID="98831"
+     id="g40">
+    <g
+       gorn="0.1"
+       id="silkscreen"
+       stroke-width="0">
+      <path
+         d="m 0.288,46.512 0,-46.224 57.024,0 0,46.224 -57.024,0"
+         id="path43"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:0.57599998"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         stroke-width="0"
+         id="g45">
+        <title
+           id="title47">element:JP1</title>
+        <g
+           stroke-width="0"
+           id="g49">
+          <title
+             id="title51">package:1X08</title>
+        </g>
+      </g>
+      <g
+         stroke-width="0"
+         id="g53">
+        <title
+           id="title55">element:JP2</title>
+        <g
+           stroke-width="0"
+           id="g57">
+          <title
+             id="title59">package:STAND-OFF</title>
+        </g>
+      </g>
+      <g
+         stroke-width="0"
+         id="g61">
+        <title
+           id="title63">element:JP3</title>
+        <g
+           stroke-width="0"
+           id="g65">
+          <title
+             id="title67">package:STAND-OFF</title>
+        </g>
+      </g>
+      <g
+         stroke-width="0"
+         id="g69">
+        <title
+           id="title71">element:U1</title>
+        <g
+           stroke-width="0"
+           id="g73">
+          <title
+             id="title75">package:LGA16-4X4</title>
+        </g>
+      </g>
+    </g>
   </g>
- </g>
- <g xmlns="http://www.w3.org/2000/svg" stroke-width="0">
-  <title xmlns="http://www.w3.org/2000/svg">element:U1</title>
-  <g xmlns="http://www.w3.org/2000/svg" stroke-width="0">
-   <title xmlns="http://www.w3.org/2000/svg">package:LGA16-4X4</title>
-  </g>
- </g>
-</g>
-</g></svg>
+</svg>
