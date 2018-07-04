@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.409722in"
+   height="0.316in"
+   viewBox="0 0 29.5 22.752"
+   id="svg5258"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="battery_kairo.svg">
+  <metadata
+     id="metadata5285">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5283" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="807"
+     id="namedview5281"
+     showgrid="false"
+     inkscape:zoom="8.8203438"
+     inkscape:cx="21.624001"
+     inkscape:cy="9.1845645"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5258" />
+  <g
+     id="g5310"
+     transform="translate(1.6000008,0)">
+    <line
+       style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round"
+       id="line5263"
+       x2="11.15"
+       x1="11.15"
+       y2="22.176001"
+       y1="0.57599998"
+       class="other" />
+    <line
+       style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round"
+       id="line5265"
+       x2="14.75"
+       x1="14.75"
+       y2="14.976"
+       y1="7.776"
+       class="other" />
+  </g>
+  <line
+     class="other"
+     y1="0.57599998"
+     y2="22.176001"
+     x1="19.9501"
+     x2="19.9501"
+     id="line5267"
+     style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+  <line
+     class="other"
+     y1="7.776"
+     y2="14.976"
+     x1="23.5501"
+     x2="23.5501"
+     id="line5269"
+     style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+  <line
+     id="connector0pin"
+     connectorname="-"
+     class="pin"
+     y1="11.376"
+     y2="11.376"
+     x1="29.1502"
+     x2="24.673925"
+     style="stroke:#787878;stroke-width:0.70000094;stroke-linecap:round" />
+  <g
+     x="29.1502"
+     y="11.376"
+     width="0.000283466"
+     id="connector0terminal"
+     class="terminal"
+     height="0.000283465"
+     style="fill:none;stroke:none;stroke-width:0" />
+  <text
+     x="26.750406"
+     y="10.326"
+     class="text"
+     font-size="2.50001"
+     id="text5275"
+     style="font-size:2.50001001px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0">1</text>
+  <line
+     id="connector1pin"
+     connectorname="+"
+     class="pin"
+     y1="11.376"
+     y2="11.376"
+     x1="0.24121216"
+     x2="5.3387718"
+     style="stroke:#787878;stroke-width:0.700001;stroke-linecap:round" />
+  <g
+     x="0.350001"
+     y="11.376"
+     width="0.000283466"
+     id="connector1terminal"
+     class="terminal"
+     height="0.000283465"
+     style="fill:none;stroke:none;stroke-width:0" />
+  <text
+     x="2.3500092"
+     y="10.326"
+     class="text"
+     font-size="2.50001"
+     id="text5279"
+     style="font-size:2.50001001px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0">3</text>
+  <g
+     id="g5314"
+     transform="translate(-4.8000024,0)">
+    <line
+       class="other"
+       y1="0.57599998"
+       y2="22.176001"
+       x1="11.15"
+       x2="11.15"
+       id="line5316"
+       style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    <line
+       class="other"
+       y1="7.776"
+       y2="14.976"
+       x1="14.75"
+       x2="14.75"
+       id="line5318"
+       style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+  </g>
+</svg>
