@@ -35,3 +35,6 @@ It’s better than nothing!!
 
 ![ce014_5v](https://github.com/kurokky/fritzing/blob/master/png/ce014_5v.png)
 
+- [XY-016](https://github.com/kurokky/fritzing/blob/master/XY-016%20DCDC.fzpz)
+
+![XY-016](https://github.com/kurokky/fritzing/blob/master/png/xy-016.png)
