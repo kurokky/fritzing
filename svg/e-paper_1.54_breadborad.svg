@@ -17,7 +17,7 @@
    viewBox="0 0 158.74016 102.04724"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="154.svg">
+   sodipodi:docname="e-paper_1.54_breadborad.svg">
   <metadata
      id="metadata475">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,8 +47,8 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="2.8526018"
-     inkscape:cx="83.144899"
-     inkscape:cy="78.848276"
+     inkscape:cx="0.58868663"
+     inkscape:cy="162.982"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -339,7 +339,7 @@
          id="tspan4389"
          y="52.813736"
          x="80.509155"
-         sodipodi:role="line">e-pepar</tspan></text>
+         sodipodi:role="line">e-paper</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4399"
