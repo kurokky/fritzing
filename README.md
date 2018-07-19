@@ -38,3 +38,7 @@ It’s better than nothing!!
 - [XY-016](https://github.com/kurokky/fritzing/blob/master/XY-016%20DCDC.fzpz)
 
 ![XY-016](https://github.com/kurokky/fritzing/blob/master/png/xy-016.png)
+
+- [DC30A-1230 SUBMERSIBLE PUMP](https://github.com/kurokky/fritzing/blob/master/submersible_pump.fzpz)
+
+![DC30A-1230 SUBMERSIBLE PUMP](https://github.com/kurokky/fritzing/blob/master/png/submersible_pump.png)
