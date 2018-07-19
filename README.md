@@ -3,22 +3,22 @@
 It’s better than nothing!!
 
 ## E-Paper
-- [E-Paper](https://github.com/kurokky/fritzing/tree/master/e-pepar)
+- [E-Paper](https://github.com/kurokky/fritzing/tree/master/e-paper)
 
 ### 1.54inch
-![normal](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_1.54_breadborad.png)
-![w/ red](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_1.54_red_breadborad.png)
-![w/ yellow](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_1.54_yellow_breadborad.png)
+![normal](https://github.com/kurokky/fritzing/blob/master/png/e-paper_1.54_breadborad.png)
+![w/ red](https://github.com/kurokky/fritzing/blob/master/png/e-paper_1.54_red_breadborad.png)
+![w/ yellow](https://github.com/kurokky/fritzing/blob/master/png/e-paper_1.54_yellow_breadborad.png)
 
 ### 2.13inch
-![normal](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_2.13_breadborad.png)
-![w/ red](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_2.13_red_breadborad.png)
-![w/ yellow](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_2.13_yellow_breadborad.png)
+![normal](https://github.com/kurokky/fritzing/blob/master/png/e-paper_2.13_breadborad.png)
+![w/ red](https://github.com/kurokky/fritzing/blob/master/png/e-paper_2.13_red_breadborad.png)
+![w/ yellow](https://github.com/kurokky/fritzing/blob/master/png/e-paper_2.13_yellow_breadborad.png)
 
 ### 2.9inch
-![normal](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_2.9_breadborad.png)
-![w/ red](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_2.9_red_breadborad.png)
-![w/ yellow](https://github.com/kurokky/fritzing/blob/master/png/e-pepar_2.9_yellow_breadborad.png)
+![normal](https://github.com/kurokky/fritzing/blob/master/png/e-paper_2.9_breadborad.png)
+![w/ red](https://github.com/kurokky/fritzing/blob/master/png/e-paper_2.9_red_breadborad.png)
+![w/ yellow](https://github.com/kurokky/fritzing/blob/master/png/e-paper_2.9_yellow_breadborad.png)
 
 
 ## Battery
